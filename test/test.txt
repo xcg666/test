@@ -1,4 +1,0 @@
-test
-local edit
-web edit
-web edit 2
